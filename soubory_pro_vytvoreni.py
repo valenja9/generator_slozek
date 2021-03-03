@@ -1,0 +1,1 @@
+soubory = ["soubor.txt", "soubor.csv", "soubor.pdf"]
